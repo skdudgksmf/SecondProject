@@ -1,4 +1,4 @@
-//For command lie git tutorial
+//For command line git tutorial
 //Local Repository Modification
 public class Hello{
 	public static void main(String[] args){
